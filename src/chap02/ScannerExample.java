@@ -10,6 +10,6 @@ public class ScannerExample {
         System.out.println(name + "출력확인");
         Scanner scanner1 = new Scanner(System.in);
         int num = scanner1.nextInt();
-        System.out.println(num + "출력");
+        System.out.println(num + "출력"); 
     }
 }
